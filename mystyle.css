@@ -1,5 +1,5 @@
 body {
-    font-family: Josefin-Sans;
+    font-family: Times New Roman;
     font-size: 18px;
     line-height: 26px;
 }
@@ -12,21 +12,22 @@ body {
 .hed {
     font-family: Arial;
     font-size: 36px;
+    line-height: 40px;
     /*font-weight: 400;*/
 }
 
 .dek {
     font-family: "Arial"
-    font-weight: 400;
+        font-weight: 400;
     font-size: 18px;
     line-height: 24px;
     color: #333;
 }
 
 .byline {
-    font-family: "Open Sans";
+    font-family: "Times";
     text-transform: uppercase;
-    font-weight: 400;
+    font-weight: 800;
     letter-spacing: 1px;
     color: #666;
 }

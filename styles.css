@@ -1,22 +1,24 @@
 body {
-    font-family: "Arial";
+    font-family: "Times New Roman";
     font-size: 18px;
     line-height: 26px;
 }
 
 .article-hed {
-    max-width: 720px;
-    margin: auto;
+    : "Times New Roman";
+    max-width: 200px;
+    margin: 20px;
 }
 
 .hed {
-    font-size: 36px;
+    line-height: 40px;
+    font-size: 20px;
     /*font-weight: 400;*/
 }
 
 .dek {
     font-family: "Arial"
-    font-weight: 400;
+        font-weight: 400;
     font-size: 18px;
     line-height: 24px;
     color: #333;
