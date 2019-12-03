@@ -78,7 +78,47 @@ body {
     font-size: 24px;
 }
 
-a {
+#g-FourMaps-Interactive-11-13-Artboard_1 {
+    display: none;
+}
+
+@media only screen and (max-width: 500px) {
+    #g-FourMaps-Interactive-11-13-Artboard_1 {
+        display: block;
+    }
+}
+
+#g-FourMaps-Interactive-11-13-Artboard_2 {
+    display: none;
+}
+
+@media only screen and (max-width: 750px) and (min-width: 500px) {
+    #g-FourMaps-Interactive-11-13-Artboard_2 {
+        display: block;
+    }
+}
+
+#g-FourMaps-Interactive-11-13-Artboard_3 {
+    display: none;
+}
+
+@media only screen and (max-width: 1000px) and (min-width: 750px) {
+    #g-FourMaps-Interactive-11-13-Artboard_3 {
+        display: block;
+    }
+}
+
+#g-FourMaps-Interactive-11-13-Artboard_4 {
+    display: none;
+}
+
+@media only screen and (min-width: 1000px) {
+    #g-FourMaps-Interactive-11-13-Artboard_4 {
+        display: block;
+    }
+}
+
+Collapse a {
     color: inherit;
     text-decoration: none;
     color: blue;
@@ -86,4 +126,6 @@ a {
 
 a:hover {
     text-decoration: underline;
+
+
 }
